@@ -1,0 +1,6 @@
+{
+  "name": "SHARORA BUILDING",
+  "description": "Сайт барои сохтмони бино ва фурӯши хонаҳо бо панели идоракунӣ ва ҳамгироии Supabase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
